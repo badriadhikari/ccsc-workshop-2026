@@ -20,6 +20,10 @@ title: null
 - Practice integrating Process Feedback into your CS1 classroom
 - Analyze sample student reports, explore **strategies for providing process feedback**, and discuss best practices
 
+## Our [common document](https://docs.google.com/document/d/1Q6FMMWwCkqDvt251pTwzMs3W_hMRP3Sku52eR-fJwhQ/edit?usp=sharing) for today
+
+- Post your questions, comments, ideas, anything [here](https://docs.google.com/document/d/1Q6FMMWwCkqDvt251pTwzMs3W_hMRP3Sku52eR-fJwhQ/edit?usp=sharing)
+
 ---
 
 <a name="Agenda"></a>
