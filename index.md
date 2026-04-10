@@ -4,7 +4,7 @@ name: null
 title: null
 ---
 
-<p align="left"><img src="./cover.jpg" align="center" width="800"/></p>
+<p align="left"><img src="./banner.png" align="center" width="500"/></p>
 
 <hr>
 
